@@ -1,4 +1,4 @@
-(ns adventofcode2017.core
+(ns adventofcode2017.day1
   (:gen-class))
 
 
